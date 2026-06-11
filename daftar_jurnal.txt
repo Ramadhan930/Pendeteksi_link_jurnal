@@ -1,0 +1,197 @@
+1	abdi.ppj.unp.ac.id	http://abdi.ppj.unp.ac.id
+2	aeej.ppj.unp.ac.id	http://aeej.ppj.unp.ac.id
+3	agriness.ppj.unp.ac.id	http://agriness.ppj.unp.ac.id
+4	annuha.ppj.unp.ac.id	http://annuha.ppj.unp.ac.id
+5	asce.ppj.unp.ac.id	http://asce.ppj.unp.ac.id
+6	avant-garde.ppj.unp.ac.id	http://avant-garde.ppj.unp.ac.id
+7	bioeducation.ppj.unp.ac.id	http://bioeducation.ppj.unp.ac.id
+8	boga.ppj.unp.ac.id	http://boga.ppj.unp.ac.id
+9	busana.ppj.unp.ac.id	http://busana.ppj.unp.ac.id
+10	catalytic.ppj.unp.ac.id	http://catalytic.ppj.unp.ac.id
+11	champions.ppj.unp.ac.id	http://champions.ppj.unp.ac.id
+12	charta.ppj.unp.ac.id	http://charta.ppj.unp.ac.id
+13	cived.ppj.unp.ac.id	http://cived.ppj.unp.ac.id
+14	counselor.ppj.unp.ac.id	http://counselor.ppj.unp.ac.id
+15	culture.ppj.unp.ac.id	http://culture.ppj.unp.ac.id
+16	deduksi.ppj.unp.ac.id	http://deduksi.ppj.unp.ac.id
+17	diakronika.ppj.unp.ac.id	http://diakronika.ppj.unp.ac.id
+18	ecosains.ppj.unp.ac.id	http://ecosains.ppj.unp.ac.id
+19	edukimia.ppj.unp.ac.id	http://edukimia.ppj.unp.ac.id
+20	edumusika.ppj.unp.ac.id	http://edumusika.ppj.unp.ac.id
+21	eksakta.ppj.unp.ac.id	http://eksakta.ppj.unp.ac.id
+22	elektif.ppj.unp.ac.id	http://elektif.ppj.unp.ac.id
+23	entalpipendidikan.ppj.unp.ac.id	http://entalpipendidikan.ppj.unp.ac.id
+24	ertha.ppj.unp.ac.id	http://ertha.ppj.unp.ac.id
+25	facilitate.ppj.unp.ac.id	http://facilitate.ppj.unp.ac.id
+26	fb.ppj.unp.ac.id	http://fb.ppj.unp.ac.id
+27	geografi.ppj.unp.ac.id	http://geografi.ppj.unp.ac.id
+28	ijam-edu.ppj.unp.ac.id	http://ijam-edu.ppj.unp.ac.id
+29	ije.ppj.unp.ac.id	http://ije.ppj.unp.ac.id
+30		
+31	ijecl.ppj.unp.ac.id	http://ijecl.ppj.unp.ac.id
+32	ijeds.ppj.unp.ac.id	http://ijeds.ppj.unp.ac.id
+33	ijeitel.ppj.unp.ac.id	http://ijeitel.ppj.unp.ac.id
+34	ijeteed.ppj.unp.ac.id	http://ijeteed.ppj.unp.ac.id
+35	ijiam-edu.ppj.unp.ac.id	http://ijiam-edu.ppj.unp.ac.id
+36	ijimce.ppj.unp.ac.id	http://ijimce.ppj.unp.ac.id
+37	ijmurhica.ppj.unp.ac.id	http://ijmurhica.ppj.unp.ac.id
+38	ijolp.ppj.unp.ac.id	http://ijolp.ppj.unp.ac.id
+39	ijplc.ppj.unp.ac.id	http://ijplc.ppj.unp.ac.id
+40	ijseht.ppj.unp.ac.id	http://ijseht.ppj.unp.ac.id
+41	ijssht.ppj.unp.ac.id	http://ijssht.ppj.unp.ac.id
+42	ijstr.ppj.unp.ac.id	http://ijstr.ppj.unp.ac.id
+43	ikeor.ppj.unp.ac.id	http://ikeor.ppj.unp.ac.id
+44	imacj.ppj.unp.ac.id	http://imacj.ppj.unp.ac.id
+45	infobibliotheca.ppj.unp.ac.id	http://infobibliotheca.ppj.unp.ac.id
+46	inovtech.ppj.unp.ac.id	http://inovtech.ppj.unp.ac.id
+47	insight.ppj.unp.ac.id	http://insight.ppj.unp.ac.id
+48	invotek.ppj.unp.ac.id	http://invotek.ppj.unp.ac.id
+49	irsaj.ppj.unp.ac.id	http://irsaj.ppj.unp.ac.id
+50	jkmk.ppj.unp.ac.id	http://jkmk.ppj.unp.ac.id
+51	jaso.ppj.unp.ac.id	http://jaso.ppj.unp.ac.id
+52	javit.ppj.unp.ac.id	http://javit.ppj.unp.ac.id
+53	jcc.ppj.unp.ac.id	http://jcc.ppj.unp.ac.id
+54		
+55	jccs.ppj.unp.ac.id	http://jccs.ppj.unp.ac.id
+56	jce.ppj.unp.ac.id	http://jce.ppj.unp.ac.id
+57	jea.ppj.unp.ac.id	http://jea.ppj.unp.ac.id
+58	jeal.ppj.unp.ac.id	http://jeal.ppj.unp.ac.id
+59	jeap.ppj.unp.ac.id	http://jeap.ppj.unp.ac.id
+60	jecco.ppj.unp.ac.id	http://jecco.ppj.unp.ac.id
+61	jeli.ppj.unp.ac.id	http://jeli.ppj.unp.ac.id
+62	jem.ppj.unp.ac.id	http://jem.ppj.unp.ac.id
+63	jep.ppj.unp.ac.id	http://jep.ppj.unp.ac.id
+64	jess.ppj.unp.ac.id	http://jess.ppj.unp.ac.id
+65	jeve.ppj.unp.ac.id	http://jeve.ppj.unp.ac.id
+66	jfe.ppj.unp.ac.id	http://jfe.ppj.unp.ac.id
+67	jhice.ppj.unp.ac.id	http://jhice.ppj.unp.ac.id
+68	jiaee.ppj.unp.ac.id	http://jiaee.ppj.unp.ac.id
+69	jikons.ppj.unp.ac.id	http://jikons.ppj.unp.ac.id
+70	jipe.ppj.unp.ac.id	http://jipe.ppj.unp.ac.id
+71	jipt.ppj.unp.ac.id	http://jipt.ppj.unp.ac.id
+72	jipteks.ppj.unp.ac.id	http://jipteks.ppj.unp.ac.id
+73	jitrk.ppj.unp.ac.id	http://jitrk.ppj.unp.ac.id
+74	jkem.ppj.unp.ac.id	http://jkem.ppj.unp.ac.id
+75	jkmp.ppj.unp.ac.id	http://jkmp.ppj.unp.ac.id
+76	jkmsdm.ppj.unp.ac.id	http://jkmsdm.ppj.unp.ac.id
+77	jkpbp.ppj.unp.ac.id	http://jkpbp.ppj.unp.ac.id
+78	jkpl.ppj.unp.ac.id	http://jkpl.ppj.unp.ac.id
+79	jlils.ppj.unp.ac.id	http://jlils.ppj.unp.ac.id
+80	jmce.ppj.unp.ac.id	http://jmce.ppj.unp.ac.id
+81	jmethf.ppj.unp.ac.id	http://jmethf.ppj.unp.ac.id
+82	jmiap.ppj.unp.ac.id	http://jmiap.ppj.unp.ac.id
+83	jmpe.ppj.unp.ac.id	http://jmpe.ppj.unp.ac.id
+84	jnka.ppj.unp.ac.id	http://jnka.ppj.unp.ac.id
+85	jppf.ppj.unp.ac.id	http://jppf.ppj.unp.ac.id
+86	jpdo.ppj.unp.ac.id	http://jpdo.ppj.unp.ac.id
+87	jpk.ppj.unp.ac.id	http://jpk.ppj.unp.ac.id
+88	jpkk.ppj.unp.ac.id	http://jpkk.ppj.unp.ac.id
+89	jpm.ppj.unp.ac.id	http://jpm.ppj.unp.ac.id
+90	jpol.ppj.unp.ac.id	http://jpol.ppj.unp.ac.id
+91	jpte.ppj.unp.ac.id	http://jpte.ppj.unp.ac.id
+92	jptk.ppj.unp.ac.id	http://jptk.ppj.unp.ac.id
+93	jsme.ppj.unp.ac.id	http://jsme.ppj.unp.ac.id
+94	jsn.ppj.unp.ac.id	http://jsn.ppj.unp.ac.id
+95	jtein.ppj.unp.ac.id	http://jtein.ppj.unp.ac.id
+96	jteki.ppj.unp.ac.id	http://jteki.ppj.unp.ac.id
+97	jtpvi.ppj.unp.ac.id	http://jtpvi.ppj.unp.ac.id
+98	jtrap.ppj.unp.ac.id	http://jtrap.ppj.unp.ac.id
+99	jtrp.ppj.unp.ac.id	http://jtrp.ppj.unp.ac.id
+100	kawakib.ppj.unp.ac.id	http://kawakib.ppj.unp.ac.id
+101	kjie.ppj.unp.ac.id	http://kjie.ppj.unp.ac.id
+102	kolokium.ppj.unp.ac.id	http://kolokium.ppj.unp.ac.id
+103	kp.ppj.unp.ac.id	http://kp.ppj.unp.ac.id
+104	kronologi.ppj.unp.ac.id	http://kronologi.ppj.unp.ac.id
+105	langgam.ppj.unp.ac.id	http://langgam.ppj.unp.ac.id
+106	liefdeagro.ppj.unp.ac.id	http://liefdeagro.ppj.unp.ac.id
+107	linguasusastra.ppj.unp.ac.id	http://linguasusastra.ppj.unp.ac.id
+108	literakom.ppj.unp.ac.id	http://literakom.ppj.unp.ac.id
+109	math.ppj.unp.ac.id	http://math.ppj.unp.ac.id
+110	medrep.ppj.unp.ac.id	http://medrep.ppj.unp.ac.id
+111	meej.ppj.unp.ac.id	http://meej.ppj.unp.ac.id
+112	microbiotech.ppj.unp.ac.id	http://microbiotech.ppj.unp.ac.id
+113	mjomaf.ppj.unp.ac.id	http://mjomaf.ppj.unp.ac.id
+114	musikolastika.ppj.unp.ac.id	http://musikolastika.ppj.unp.ac.id
+115	naradidik.ppj.unp.ac.id	http://naradidik.ppj.unp.ac.id
+116	omiyage.ppj.unp.ac.id	http://omiyage.ppj.unp.ac.id
+117	patriot.ppj.unp.ac.id	http://patriot.ppj.unp.ac.id
+118	pedagogi.ppj.unp.ac.id	http://pedagogi.ppj.unp.ac.id
+119	pelitaeksakta.ppj.unp.ac.id	http://pelitaeksakta.ppj.unp.ac.id
+120	performa.ppj.unp.ac.id	http://performa.ppj.unp.ac.id
+121	persona.ppj.unp.ac.id	http://persona.ppj.unp.ac.id
+122	perspective.ppj.unp.ac.id	http://perspective.ppj.unp.ac.id
+123	perspektif.ppj.unp.ac.id	http://perspektif.ppj.unp.ac.id
+124	pgde.ppj.unp.ac.id	http://pgde.ppj.unp.ac.id
+125	ple.ppj.unp.ac.id	http://ple.ppj.unp.ac.id
+126	ppsfip.ppj.unp.ac.id	http://ppsfip.ppj.unp.ac.id
+127	publicness.ppj.unp.ac.id	http://publicness.ppj.unp.ac.id
+128	pusako.ppj.unp.ac.id	http://pusako.ppj.unp.ac.id
+129	saayun.ppj.unp.ac.id	http://saayun.ppj.unp.ac.id
+130	sainstek.ppj.unp.ac.id	http://sainstek.ppj.unp.ac.id
+131	scinary.ppj.unp.ac.id	http://scinary.ppj.unp.ac.id
+132	semesta.ppj.unp.ac.id	http://semesta.ppj.unp.ac.id
+133	sendratasik.ppj.unp.ac.id	http://sendratasik.ppj.unp.ac.id
+134	senjop.ppj.unp.ac.id	http://senjop.ppj.unp.ac.id
+135	serambibiologi.ppj.unp.ac.id	http://serambibiologi.ppj.unp.ac.id
+136	sjdgge.ppj.unp.ac.id	http://sjdgge.ppj.unp.ac.id
+137	socius.ppj.unp.ac.id	http://socius.ppj.unp.ac.id
+138	sportasaintika.ppj.unp.ac.id	http://sportasaintika.ppj.unp.ac.id
+139	sportscience.ppj.unp.ac.id	http://sportscience.ppj.unp.ac.id
+140	sporttechno.ppj.unp.ac.id	http://sporttechno.ppj.unp.ac.id
+141	stamina.ppj.unp.ac.id	http://stamina.ppj.unp.ac.id
+142	sulben.ppj.unp.ac.id	http://sulben.ppj.unp.ac.id
+143		
+144	tazakka.ppj.unp.ac.id	http://tazakka.ppj.unp.ac.id
+145	teknomekanik.ppj.unp.ac.id	http://teknomekanik.ppj.unp.ac.id
+146	tip.ppj.unp.ac.id	http://tip.ppj.unp.ac.id
+147	tropicalanimal.ppj.unp.ac.id	http://tropicalanimal.ppj.unp.ac.id
+148	ujsds.ppj.unp.ac.id	http://ujsds.ppj.unp.ac.id
+149	universe.ppj.unp.ac.id	http://universe.ppj.unp.ac.id
+150	vomek.ppj.unp.ac.id	http://vomek.ppj.unp.ac.id
+151	wra.ppj.unp.ac.id	http://wra.ppj.unp.ac.id
+152	https://humanus.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/humanus
+153	http://komposisi.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/komposisi
+154	https://linguadidaktika.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/linguadidaktika
+155		https://ejournal.unp.ac.id/index.php/abdi-humaniora
+156		https://ejournal.unp.ac.id/index.php/bsp
+157	https://mining.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/mining
+158		https://ejournal.unp.ac.id/index.php/jelt
+159	https://spektrumpls.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/pnfi
+160	https://rap.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/psikologi
+161		https://ejournal.unp.ac.id/index.php/paud
+162	https://juppekhu.ppj.unp.ac.id/index.php/juppekhu	https://ejournal.unp.ac.id/index.php/jupekhu
+163	https://jtev.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/jtev
+164		https://ejournal.unp.ac.id/index.php/dkv
+165		https://ejournal.unp.ac.id/index.php/ell
+166	https://iipk.ppj.unp.ac.id/index.php/jiipk	https://ejournal.unp.ac.id/index.php/iipk
+167		https://ejournal.unp.ac.id/index.php/pbs/index
+168		https://ejournal.unp.ac.id/index.php/ibs
+169	https://bioscience.ppj.unp.ac.id/index.php/bioscience	https://ejournal.unp.ac.id/index.php/bioscience
+170	https://jkmb.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/jkmb
+171		https://ejournal.unp.ac.id/index.php/bahana
+172		https://ejournal.unp.ac.id/index.php/serupa
+173		https://ejournal.unp.ac.id/index.php/jippsd
+174		https://ejournal.unp.ac.id/index.php/tingkap
+175	https://jrp.ppj.unp.ac.id/	https://ejournal.unp.ac.id/students/index.php/psi
+176		https://ejournal.unp.ac.id/students/index.php/pmat
+177	https://jom.ppj.unp.ac.id/index.php/jom	https://ejournal.unp.ac.id/students/index.php/mat
+178		https://ejournal.unp.ac.id/students/index.php/pbio
+179		https://ejournal.unp.ac.id/students/index.php/pfis
+180		https://ejournal.unp.ac.id/students/index.php/fis
+181	https://pek.ppj.unp.ac.id/index.php/ecogen	https://ejournal.unp.ac.id/students/index.php/pek
+182	https://jkmw.ppj.unp.ac.id/index.php/jkmw	https://ejournal.unp.ac.id/students/index.php/mnj
+183	http://jkep.ppj.unp.ac.id/	https://ejournal.unp.ac.id/students/index.php/epb
+184		https://journal.fbs.unp.ac.id/index.php/grafiti
+185	https://chr.ppj.unp.ac.id/	http://bk.ppj.unp.ac.id/index.php/chr
+186	https://ijacss.ppj.unp.ac.id/	http://bk.ppj.unp.ac.id/index.php/ijacss
+187	https://cic.ppj.unp.ac.id/	http://bk.ppj.unp.ac.id/index.php/cic
+188	https://cons.ppj.unp.ac.id/	http://bk.ppj.unp.ac.id/index.php/cons
+189	https://aiptekin.ppj.unp.ac.id/	http://bk.ppj.unp.ac.id/index.php/aiptekin
+190		https://administer.ppj.unp.ac.id/index.php/administer
+191		http://gladiator.ppj.unp.ac.id/index.php/gltdor
+192		https://jepm.ppj.unp.ac.id/index.php/jepm/index
+193		https://jep.ppj.unp.ac.id/index.php/jep
+194	https://etech.ppj.unp.ac.id/	https://ejournal.unp.ac.id/index.php/e-tech/index
+195		https://pope.ppj.unp.ac.id/
+196		https://pop.ppj.unp.ac.id/
+197		https://ijofls.ppj.unp.ac.id/
