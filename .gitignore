@@ -1,0 +1,46 @@
+# ==================== SENSITIF ====================
+# File konfigurasi (token, chat ID, API key)
+.env
+
+# Hasil scan & bukti (mengandung data internal UNP)
+logs/
+bukti/
+
+# Daftar jurnal (data internal UNP)
+daftar_jurnal.txt
+
+# ==================== PYTHON ====================
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# File sementara
+*.tmp
+*.bak
+*.swp
+*~
+
+# ==================== IDE ====================
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# ==================== OS ====================
+# macOS
+.DS_Store
+
+# Linux
+.directory
+
+# Windows
+Thumbs.db
+EOF
