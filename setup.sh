@@ -1,3 +1,4 @@
+#!/bin/bash
 # ============================================================
 # UNP JOURNAL DEFENSE SYSTEM - SETUP SCRIPT
 # ============================================================
@@ -112,7 +113,7 @@ echo -e "\n${YELLOW}WhatWeb:${NC}"
 whatweb --version 2>/dev/null || echo "WhatWeb tidak terdeteksi"
 
 echo -e "\n${YELLOW}Library Python:${NC}"
-pip list 2>/dev/null | grep -E "requests|beautifulsoup4|colorama|selenium" || echo "Jalankan: source venv/bin/activate"
+pip list 2>/dev/null | grep -E "requests|beautifulsoup4|colorama|selenium"
 
 echo -e "\n${YELLOW}File proyek:${NC}"
 ls -la *.py *.sh *.txt *.md .env* 2>/dev/null
@@ -127,4 +128,3 @@ echo -e "  2. Isi daftar jurnal:  ${CYAN}nano daftar_jurnal.txt${NC}"
 echo -e "  3. Aktifkan venv:      ${CYAN}source venv/bin/activate${NC}"
 echo -e "  4. Jalankan scanner:   ${CYAN}python3 scanner_v4.py${NC}"
 echo -e ""
-
