@@ -14,7 +14,7 @@ Berdasarkan investigasi mandiri selama magang, ditemukan bahwa:
 - 2 link terkonfirmasi mengandung ratusan link judi online tersembunyi
 - 111 link tidak dapat diakses (rentan subdomain takeover)
 - Link judol disembunyikan dengan teknik display:none dan visibility:hidden
-- Tim Cyber DTI hanya 1 orang tanpa tools pemantauan otomatis
+- Tim Cyber DTI hanya orang tanpa tools pemantauan otomatis
 - Tidak ada budget untuk server atau software keamanan
 
 Sistem ini dibangun sebagai solusi 100% gratis untuk menjawab masalah tersebut.
